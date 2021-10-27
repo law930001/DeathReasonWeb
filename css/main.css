@@ -1,0 +1,27 @@
+body  { font-family: sans-serif;
+        background-color: lightyellow; }
+table { border-collapse: collapse;
+        border: 1px solid gray; }
+td    { padding: 5px; 
+        border: 1px solid gray; }
+#div   { border: 1px solid black; }
+#taiwanmap  {	width: 	450px;
+				height: 720px;	
+			}
+#righttop	{	width:	350px;
+				height: 25px;	
+				position: absolute;
+				left:	110px;
+				top:   	0px;
+			}
+#right   	{	width: 	700px;
+				height: 760px;	
+				position: absolute;
+				left:	500px;
+				top:   	7px;
+			}
+#refresh	{	position: absolute;
+				top: 6px;
+				left: 500px;
+			}
+				
